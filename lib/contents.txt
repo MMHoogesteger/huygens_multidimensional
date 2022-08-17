@@ -1,0 +1,22 @@
+%% describing
+Contains the functions used in calculating describing functions and solving the harmonic balance equation
+
+
+%% image_app
+Contains all necessary code for the video analysis application
+
+
+%% matlab2tikz
+Library, used in generating tikz-compatible plots
+
+
+%% model_generation
+Contains code used to generate models both using analytical derivation and manual entries
+
+
+%% mtimesx
+Library, used to generalize matrix multiplication for multi-dimensional matrices
+
+
+%% simulations
+Contains classes to generalize simulation of models.
