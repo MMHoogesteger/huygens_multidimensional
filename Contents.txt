@@ -1,12 +1,10 @@
-# Multivariable Huygens'synchronization tools
-Author: M.M. Hoogesteger
+Author: M.M. Hoogesteger - Msc student of Mechanical Engineering
 Eindhoven University of Technology, Mechanical Engineering, Dynamics and control
-email address: m.m.hoogesteger@tue.nl
-First version: November 2018
-Current version: July 2022
+email address: m.m.hoogesteger@student.tue.nl
+November 2018
 
 
-This repo contains all software used in 
+This folder contains all software used in 
 "Huygens' Synchronization with Multivariable Coupling"
 DC 2018.088
 
@@ -31,4 +29,3 @@ derive_models script.
 
 %% Cameras
 Contains the C++ program used to capture images.
-
