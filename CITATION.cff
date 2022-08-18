@@ -1,10 +1,11 @@
-cff-version: 1.1.0
+cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Hoogesteger
-    given-names: Marinus
-    orcid: https://orcid.org/0000-0003-4421-9293
-title: MMHoogesteger/huygens_multidimensional: v1.0.1
+  - family-names: "Hoogesteger"
+    given-names: "Marinus"
+    orcid: "https://orcid.org/0000-0003-4421-9293"
+title: "MMHoogesteger/huygens_multidimensional"
 version: v1.0.1
 doi: 10.5281/zenodo.7004022
 date-released: 2022-08-18
+url: "https://github.com/MMHoogesteger/huygens_multidimensional"
