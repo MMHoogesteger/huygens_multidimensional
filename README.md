@@ -1,4 +1,4 @@
-# Multivariable Huygens'synchronization tools
+# Multivariable Huygens' synchronization tools
 
 [![DOI](https://zenodo.org/badge/525821288.svg)](https://zenodo.org/badge/latestdoi/525821288)
 
@@ -14,7 +14,7 @@ Current version: July 2022
 
 ## Description
 
-This repo contains all software used in the amster thesis of the author:
+This repo contains all software used in the master thesis of the author:
 "Huygens' Synchronization with Multivariable Coupling" 
 
 An overview of what can be found in this repo is also given in Appendix C of this thesis.

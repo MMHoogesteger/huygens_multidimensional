@@ -13,33 +13,33 @@ store generated models, simulation settings and temporary function files.
 
 A few important files are:
 
-prepEnv, which loads all lib folders and thereby prepares the environment for
+`prepEnv`, which loads all lib folders and thereby prepares the environment for
 the other scripts.
 
-derive_models, which derives all models and stores them in the local models
+`derive_models`, which derives all models and stores them in the local models
 folder. Manually copy them to the global models folder afterwards.
 
-launch_image_app, opens the video processing application.
+`launch_image_app`, opens the video processing application.
 
-jobrunner, automatically runs simulations of all available simSettings in
+`jobrunner`, automatically runs simulations of all available simSettings in
 the jobs folder. See the available examples and the code for further details.
 
 Other files include:
 
-describing_***, contains code that evaluates the describing functions for
+`describing_***`, contains code that evaluates the describing functions for
 various settings.
 
-gatherFourier_***, loads all simulations of a certain set and gathers 
+`gatherFourier_***`, loads all simulations of a certain set and gathers 
 certain results.
 
-genSimSettings_***, contains code that generates simulation settings with
+`genSimSettings_***`, contains code that generates simulation settings with
 one or more varying parameters.
 
-load***, loads certain simulations.
+`load***`, loads certain simulations.
 
-plot***, plots certain simulations.
+`plot***`, plots certain simulations.
 
-testEscOr, generates the data as found in Appendix H.
+`testEscOr`, generates the data as found in Appendix H.
 
 
 
